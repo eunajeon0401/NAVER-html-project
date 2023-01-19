@@ -11,5 +11,4 @@
 2022-12-15(Thu)
 
 ## Page Structure
-
-[KakaoTalk_20230119_140159486](https://user-images.githubusercontent.com/115531867/213360529-eb0e80d8-1338-41a7-abd0-950ccfbcadc2.jpg)
+![KakaoTalk_20230119_140159486](https://user-images.githubusercontent.com/115531867/213360687-567cd8ac-d2ff-4e28-869a-f8175afc3e2f.jpg)
